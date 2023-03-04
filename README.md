@@ -12,7 +12,7 @@ It's my GitHub profile README, the place where I will keep up-to-date informatio
 
 📍 In 2020 I moved to London where I reside now.
 
-💡 I am curious about many things, and honestly speaking, knowledge is my only true passion and thirst. Below you could find the list of things that I did and do.
+💡 I am curious about many things, and honestly speaking, knowledge is my the only true passion and thirst. Below you could find the list of things that I did and do.
 
 ## My Web Trace
 
