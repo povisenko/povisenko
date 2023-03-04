@@ -2,7 +2,7 @@
 
 It's my GitHub profile README, the place where I will keep up-to-date information about myself that I'd like to be public.
 
-## Background
+## My Background
 
 🎬 I am from Hadiach. Born in the year 1994. Citizen of Ukraine 🇺🇦.
 
@@ -26,7 +26,7 @@ It's my GitHub profile README, the place where I will keep up-to-date informatio
 
 - [Diaspora XX](https://soundcloud.com/diasporaxx). It is a non-commercial educational project where I explore the Ukrainian diaspora musical heritage of the XX century up to 1991. Me moving to London opened a lot of things for me that I was not aware of before. And one such thing is access to old Ukrainian vinyl released across the world in the XX century. The collection you could brows on my [Discogs](https://www.discogs.com/user/povisenko/collection).
 
-## Social Links & Other Platforms
+## My Other Socials & Platforms
 * [Instagram](https://www.instagram.com/povisenko) 
 * [Facebook](https://www.facebook.com/spovisenko)
 * [Soundloud](https://soundcloud.com/povisenko)
