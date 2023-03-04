@@ -6,7 +6,7 @@ It's my GitHub profile README, the place where I will keep up-to-date informatio
 
 👤 I am from Hadiach. Born in the year 1994. Citizen of Ukraine 🇺🇦.
 
-🎓 After I finished middle school, at Mykhailo Drahomanov Humanitarian Lyceum, in 2010 I moved to Kyiv. There I received a master's degree in applied mathematics (2016) after studying at Kyiv Polytechnic Institut.
+🎓 After I finished middle school, at Mykhailo Drahomanov Humanitarian Lyceum, in 2010 I moved to Kyiv. There I received a master's degree in applied mathematics (2016) after studying at Kyiv Polytechnic Institute.
 
 📈 In 2015 I began my professional career in Information Technology. Gradually my proficiency in web development grew and I gravitated towards doing system design, architecture and engineering management. Today it is the career path I am on.
 
