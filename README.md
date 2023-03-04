@@ -31,5 +31,6 @@ It's my GitHub profile README, the place where I will keep up-to-date informatio
 * [Facebook](https://www.facebook.com/spovisenko)
 * [Soundloud](https://soundcloud.com/povisenko)
 * [Bandcamp](https://bandcamp.com/povisenko)
+* [Spotify](https://open.spotify.com/user/4g8rwtaggbqujdl0qwkpqlu0h)
 * [goodreads](https://www.goodreads.com/user/show/123456509-serhii-pov-senko)
 * [LinkedIn](https://www.linkedin.com/in/povisenko/)
