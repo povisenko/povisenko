@@ -1,6 +1,6 @@
 ### Hello Friends!
 
-It's my GitHub profile README, the place where I will keep up-to-date information about myself that I'd like to be public.
+It's my GitHub profile README, the place where I will keep up-to-date information about me I'd like to be public.
 
 ## My Background
 
