@@ -4,7 +4,7 @@ It's my GitHub profile README, the place where I will keep up-to-date informatio
 
 ## My Background
 
-🎬 I am from Hadiach. Born in the year 1994. Citizen of Ukraine 🇺🇦.
+👤 I am from Hadiach. Born in the year 1994. Citizen of Ukraine 🇺🇦.
 
 🎓 After I finished middle school, at Mykhailo Drahomanov Humanitarian Lyceum, in 2010 I moved to Kyiv. There I studied mathematics and computer science at Igor Sikorsky Kyiv Polytechnic Institute, where I got my Masters's Degree in Applied Mathematics (2016)
 
