@@ -29,6 +29,7 @@ It's a place where I keep up-to-date information about me I'd like to be public.
 ## My Other Socials & Platforms
 * [Instagram](https://www.instagram.com/povisenko) 
 * [Facebook](https://www.facebook.com/spovisenko)
+* [Twitter](https://twitter.com/povisenko)
 * [Soundloud](https://soundcloud.com/povisenko)
 * [Bandcamp](https://bandcamp.com/povisenko)
 * [Spotify](https://open.spotify.com/user/4g8rwtaggbqujdl0qwkpqlu0h)
