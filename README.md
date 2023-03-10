@@ -1,18 +1,18 @@
-### Hello Friends!
+### Welcome!
 
-It's a place where I keep up-to-date information about me I'd like to be public.
+Bellow on that page, you'll find all the up-to-date information I'd like to share about myself.
 
 ## My Background
 
-👤 I am from [Hadiach](https://goo.gl/maps/FM6Pc3h8erwBUKUj7). Born in the year 1994. Citizen of Ukraine 🇺🇦.
+I am from [Hadiach](https://goo.gl/maps/FM6Pc3h8erwBUKUj7). Born in the year 1994. Citizen of Ukraine 🇺🇦.
 
-🎓 After I finished middle school, at Mykhailo Drahomanov Humanitarian Lyceum, in 2010 I moved to Kyiv. There I received a master's degree in applied mathematics (2016) after studying at Kyiv Polytechnic Institute.
+After I finished my hometown middle school, at Mykhailo Drahomanov Humanitarian Lyceum, in 2010 I moved to Kyiv. Received a master's degree in applied mathematics (2016) after studying at Kyiv Polytechnic Institute.
 
-📈 In 2015 I began my professional career in Information Technology. Gradually my proficiency in web development grew and I gravitated towards doing system design, architecture and engineering management. Today it is the career path I am on.
+In 2015 I began my professional career in Information Technology. Gradually my proficiency in web development grew while gravitating towards system design, architecture and engineering management. Over the past decade, I have designed multiple solutions for various businesses, mostly telecom and healthcare. Also, I had a chance to work closely with teams: from hiring the right engineering talents for the business to guiding and assisting them.
 
-📍 In 2020 I moved to London where I reside now.
+In 2020 I moved to London, to help develop the healthcare tech [company](https://cthesigns.co.uk) on-site. Today it is the career path I am on.
 
-💡 I am curious about many things, and honestly speaking, knowledge is my the only true passion and thirst. Below you could find the list of things that I did and do.
+Below you could find the list of things that I did or/and do both: related to my professional area and the ones that span beyond.
 
 ## My Web Trace
 
