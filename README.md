@@ -2,7 +2,7 @@
 
 Bellow on that page, you'll find all the up-to-date information I'd like to share about myself.
 
-## My Background
+## Background
 
 I am from [Hadiach](https://goo.gl/maps/FM6Pc3h8erwBUKUj7). Born in the year 1994. Citizen of Ukraine 🇺🇦.
 
@@ -14,7 +14,7 @@ In 2020 I moved to London, to help develop the healthcare tech [company](https:/
 
 Below you could find the list of things that I did or/and do both: related to my professional area and the ones that span beyond.
 
-## My Web Trace
+## Projects & Contributions
 
 * In 2022, I started my [Substack](https://povisenko.substack.com). Here I write about topics I am curious and reflect about the world. Though I could not highlight a particular theme yet as too little was written so far, but I am highly motivated to write more, it is indeed one of my ongoing hobbies I treat with utmost seriousness. I wrote only in Ukrainian, nevertheless my plan is to create texts in English too. 
 
@@ -26,7 +26,7 @@ Below you could find the list of things that I did or/and do both: related to my
 
 - [Diaspora XX](https://soundcloud.com/diasporaxx). It is a non-commercial educational project where I explore the Ukrainian diaspora musical heritage of the XX century up to 1991. Me moving to London opened a lot of things for me that I was not aware of before. And one such thing is access to old Ukrainian vinyl released across the world in the XX century. The collection you could brows on my [Discogs](https://www.discogs.com/user/povisenko/collection).
 
-## My Other Socials & Platforms
+## Social Media & Platforms
 * [Instagram](https://www.instagram.com/povisenko) 
 * [Facebook](https://www.facebook.com/spovisenko)
 * [Twitter](https://twitter.com/povisenko)
