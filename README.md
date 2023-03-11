@@ -1,4 +1,4 @@
-### Welcome!
+## Welcome!
 
 Here you'll find all the concise and up-to-date information I'd like to share about myself.
 
