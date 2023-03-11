@@ -14,7 +14,7 @@ In 2020 I moved to London, to help develop the healthcare tech [company](https:/
 
 Below you could find the list of things that I did or/and do both: related to my professional area and the ones that span beyond.
 
-## Projects & Contributions
+## Engagements
 
 * In 2022, I started my [Substack](https://povisenko.substack.com). Here I write about topics I am curious and reflect about the world. Though I could not highlight a particular theme yet as too little was written so far, but I am highly motivated to write more, it is indeed one of my ongoing hobbies I treat with utmost seriousness. I wrote only in Ukrainian, nevertheless my plan is to create texts in English too. 
 
@@ -28,7 +28,7 @@ Below you could find the list of things that I did or/and do both: related to my
 
 * Volunteer at Charity Fund ["Doing Acts Of Kindness Together"](https://youcontrol.com.ua/en/catalog/company_details/44798488/). Since the beginning of the full-scale russian invasion of my country, I joined my hometown charity organisation ["Робимо Добрі Справи Разом"](https://www.instagram.com/dobri_spravy_hadiach/). I help to raise money, buy optics and different tactical equipment here in the UK and ship it to Ukraine. I do all that I can to support volunteers who are on-site to assist the Defence Forces of Ukraine in their utmost honoured task - the protection of the country, people including my family, from russian fascism.
 
-## Social Media & Platforms
+## Social & Platforms
 * [Instagram](https://www.instagram.com/povisenko) 
 * [Facebook](https://www.facebook.com/spovisenko)
 * [Twitter](https://twitter.com/povisenko)
