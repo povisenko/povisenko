@@ -24,7 +24,9 @@ Below you could find the list of things that I did or/and do both: related to my
   * [How to Extend Your AWS Infrastructure with Direct Connect Using Terraform](https://www.freecodecamp.org/news/how-to-extend-your-aws-infrastructure/)
   * [COM Interface API Tutorial: Java Spring Boot + JACOB Library](https://www.freecodecamp.org/news/interface-in-java-tutorial-how-to-call-the-com-interface-spring-boot-jacob-library/)
 
-- [Diaspora XX](https://soundcloud.com/diasporaxx). It is a non-commercial educational project where I explore the Ukrainian diaspora musical heritage of the XX century up to 1991. Me moving to London opened a lot of things for me that I was not aware of before. And one such thing is access to old Ukrainian vinyl released across the world in the XX century. The collection you could brows on my [Discogs](https://www.discogs.com/user/povisenko/collection).
+* [Diaspora XX](https://soundcloud.com/diasporaxx). It is a non-commercial educational project where I explore the Ukrainian diaspora musical heritage of the XX century up to 1991. Me moving to London opened a lot of things for me that I was not aware of before. And one such thing is access to old Ukrainian vinyl released across the world in the XX century. The collection you could brows on my [Discogs](https://www.discogs.com/user/povisenko/collection).
+
+* Volunteer at Charity Fund ["Doing Acts Of Kindness Together"](https://youcontrol.com.ua/en/catalog/company_details/44798488/). Since the beginning of the full-scale russian invasion of my country, I joined my hometown charity organisation ["Робимо Добрі Справи Разом"](https://www.instagram.com/dobri_spravy_hadiach/). I help to raise money, buy optics and different tactical equipment here in the UK and ship it to Ukraine. I do all that I can to support volunteers who are on-site to assist the Defence Forces of Ukraine in their utmost honoured task - the protection of the country, people including my family, from russian fascism.
 
 ## Social Media & Platforms
 * [Instagram](https://www.instagram.com/povisenko) 
