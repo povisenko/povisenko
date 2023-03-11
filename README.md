@@ -1,6 +1,6 @@
 ### Welcome!
 
-Bellow on that page, you'll find all the up-to-date information I'd like to share about myself.
+Here you'll find all the concise and up-to-date information I'd like to share about myself.
 
 ## Background
 
