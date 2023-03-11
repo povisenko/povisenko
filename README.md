@@ -6,7 +6,7 @@ Here you'll find all the concise and up-to-date information I'd like to share ab
 
 I am from [Hadiach](https://goo.gl/maps/FM6Pc3h8erwBUKUj7). Born in the year 1994. Citizen of Ukraine 🇺🇦.
 
-After I finished my hometown middle school, at Mykhailo Drahomanov Humanitarian Lyceum, in 2010 I moved to Kyiv. Received a master's degree in applied mathematics (2016) after studying at Kyiv Polytechnic Institute.
+After I finished my hometown middle school, at Mykhailo Drahomanov Humanitarian Lyceum, in 2010 I moved to Kyiv where received a master's degree in applied mathematics (2016) after studying at Kyiv Polytechnic Institute.
 
 In 2015 I began my professional career in Information Technology. Gradually my proficiency in web development grew while gravitating towards system design, architecture and engineering management. Over the past decade, I have designed multiple solutions for various businesses, mostly telecom and healthcare. Also, I had a chance to work closely with teams: from hiring the right engineering talents for the business to guiding and assisting them.
 
