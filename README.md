@@ -19,10 +19,10 @@ Below you could find the list of things that I did or/and do either related to m
 * In 2022 I started my [Substack](https://povisenko.substack.com). Here I write about topics I am curious about and do some reflections about the world. Though I could not highlight a particular theme yet as too little was written so far, I am highly motivated to write more, it is indeed one of my ongoing hobbies I treat with utmost seriousness. I write in Ukrainian only for now, nevertheless my plan is to create texts in English too. 
 
 * I am active on [Stack Overflow](https://stackoverflow.com/users/2852528/serhii-povisenko). Doing software engineering professionally, I became convinced that a degree of that professionalism correlates with the fact, whether you write the code regularly or not. Stack Overflow allowed me to learn a lot. And this is a community I'd like to contribute to. In the past I wrote a few pages on different software engineering topics to other blogs but nowadays, as a tech writer, I only contribute to Stack Overflow. The pages that I pubslihed apart I will leaving here as a sublist:
-  * [Java Memory Consumption in Docker and How We Employed Spring Boot](https://dzone.com/articles/how-to-decrease-jvm-memory-consumption-in-docker-u)
-  * [Running Java on AWS Infrastructure: How To Put the Bricks Together](https://dzone.com/articles/architecture-for-your-startup-or-how-to-put-sticks)
-  * [How to Extend Your AWS Infrastructure with Direct Connect Using Terraform](https://www.freecodecamp.org/news/how-to-extend-your-aws-infrastructure/)
-  * [COM Interface API Tutorial: Java Spring Boot + JACOB Library](https://www.freecodecamp.org/news/interface-in-java-tutorial-how-to-call-the-com-interface-spring-boot-jacob-library/)
+  * Java Memory Consumption in Docker and How We Employed Spring Boot. [link](https://dzone.com/articles/how-to-decrease-jvm-memory-consumption-in-docker-u)
+  * Running Java on AWS Infrastructure: How To Put the Bricks Together. [link](https://dzone.com/articles/architecture-for-your-startup-or-how-to-put-sticks)
+  * How to Extend Your AWS Infrastructure with Direct Connect Using Terraform. [link](https://www.freecodecamp.org/news/how-to-extend-your-aws-infrastructure/)
+  * COM Interface API Tutorial: Java Spring Boot + JACOB Library. [link](https://www.freecodecamp.org/news/interface-in-java-tutorial-how-to-call-the-com-interface-spring-boot-jacob-library/)
 
 * [Diaspora XX](https://soundcloud.com/diasporaxx). It is a non-commercial educational project where I explore the Ukrainian diaspora musical heritage of the XX century up to 1991. Me moving to London opened a lot of things for me that I was not aware of before. And one such thing is access to old Ukrainian vinyl released across the world in the XX century. The collection you could brows on my [Discogs](https://www.discogs.com/user/povisenko/collection).
 
