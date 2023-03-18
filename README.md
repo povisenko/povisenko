@@ -10,7 +10,7 @@ After I finished my hometown middle school, at Mykhailo Drahomanov Humanitarian 
 
 In 2015 I began my professional career in Information Technology. Gradually my proficiency in web development grew while gravitating towards system design, architecture and engineering management. Over the past decade, I have designed multiple solutions for various businesses, mostly telecom and healthcare. I also work closely with people as well as with the code. I know how to hire the right engineering talents for a business and how to guide and support onboarded people to meet expectations through achiving key targets.
 
-In 2020 I moved to London, to help build the healthcare tech [company](https://cthesigns.co.uk) on-site as well as promote and strengthen cooperation with engineering talents from Ukraine to facilitate reciprocal growth and development. Today it is the career path I am on.
+In 2020 I moved to London, to help build an ambitious healthcare tech [company](https://cthesigns.co.uk) on-site as well as promote and strengthen cooperation with engineering talents from Ukraine to facilitate reciprocal growth and development. Today it is the career path I am on.
 
 Below you could find the list of things that I did or/and do either related to my professional area or the ones that span beyond.
 
