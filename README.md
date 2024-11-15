@@ -27,6 +27,7 @@ I am active on [Stack Overflow](https://stackoverflow.com/users/2852528/serhii-p
 * [Diaspora XX](https://soundcloud.com/diasporaxx). It is a hobby project where I explore the Ukrainian diaspora musical heritage of the XX century up to 1991. Moving to London opened a lot of things for me that I was not aware of before. And one such thing is access to buy easily old Ukrainian vinyls released across the world in the XX century. You could brows the collection on my [Discogs](https://www.discogs.com/user/povisenko/collection).
 
 ## Social & Platforms
+* [Bluesky](https://bsky.app/profile/povisenko.bsky.social)
 * [Instagram](https://www.instagram.com/povisenko) 
 * [Facebook](https://www.facebook.com/spovisenko)
 * [Soundloud](https://soundcloud.com/povisenko)
