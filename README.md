@@ -33,6 +33,7 @@ I am active on [Stack Overflow](https://stackoverflow.com/users/2852528/serhii-p
 * [Soundloud](https://soundcloud.com/povisenko)
 * [Bandcamp](https://bandcamp.com/povisenko)
 * [Spotify](https://open.spotify.com/user/4g8rwtaggbqujdl0qwkpqlu0h)
+* [Letterboxd](https://letterboxd.com/povisenko/)
 * [Goodreads](https://www.goodreads.com/user/show/123456509-serhii-pov-senko)
 * [LinkedIn](https://www.linkedin.com/in/povisenko/)
 
