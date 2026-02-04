@@ -24,6 +24,7 @@ I used to contribute to [Stack Overflow](https://stackoverflow.com/users/2852528
 - In 2022, I started a [Substack](https://povisenko.substack.com) where I write about topics I'm curious about and reflect on the world. There's no particular theme yet—too little has been written—but I'm motivated to keep going. It's a hobby I take seriously. I write in both Ukrainian and English.
 - [Diaspora XX](https://soundcloud.com/diasporaxx) is a hobby project exploring Ukrainian diaspora music from the 20th century, up to 1991. Moving to London opened my eyes to something I hadn't known about: the ease of finding old Ukrainian vinyl released across the world during that era. You can browse the collection on [Discogs](https://www.discogs.com/user/povisenko/collection).
 - I try to provide ongoing support to friends serving in the Ukrainian Defence Forces—organising fundraisers and buying what they need. Financial reports are available [here](https://linktr.ee/povisenko) and on my social media.
+- Sometimes I play awkward electronic music with my friends and have fun.
 
 ## Social & Platforms
 * [Instagram](https://www.instagram.com/povisenko) 
