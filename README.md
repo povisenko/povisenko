@@ -1,29 +1,29 @@
 ## Hello 👋🏻!
 
-Here you'll find some concise information I'd like to share about myself.
+I'm Serhii, a software engineering leader based in London, originally from Ukraine. This page is a short introduction to who I am and what I do.
 
 ## My Story
+I'm from [Hadiach](https://goo.gl/maps/FM6Pc3h8erwBUKUj7), a small town in central-eastern Ukraine. After graduating from Mykhailo Drahomanov Humanitarian Lyceum in 2010, I moved to Kyiv, where I completed both a minor and a major in applied mathematics at Kyiv Polytechnic Institute (2016).
 
-I am from [Hadiach](https://goo.gl/maps/FM6Pc3h8erwBUKUj7). After I finished my hometown middle school, at Mykhailo Drahomanov Humanitarian Lyceum, in 2010, I moved to Kyiv, where I did a minor and a major in applied mathematics at Kyiv Polytechnic Institute (2016).
+I began my career in technology in 2015. What started as web development gradually evolved into a deeper focus on system design, architecture, and engineering management. Over the past decade, I've designed solutions across telecom and healthcare, working as closely with people as with code. I've learned how to identify the right engineering talent for a business and how to support people in meeting ambitious goals.
 
-In 2015, I began my professional career in Information Technology. Gradually, my proficiency in web development grew while gravitating towards system design, architecture, and engineering management. Over the past decade, I have designed multiple solutions for various businesses, mostly telecom and healthcare. I also work closely with people as well as with the code. I know how to hire the right engineering talent for a business and how to guide and support onboarded people to meet expectations through achieving key targets.
+In 2020, I relocated to London to help build [C the Signs](https://cthesigns.co.uk), a healthcare technology company, while also strengthening ties with engineering talent in Ukraine. That's the path I'm still on today.
 
-In 2020, I moved to London to help build an ambitious healthcare tech [company](https://cthesigns.co.uk) on-site as well as promote and strengthen cooperation with engineering talents from Ukraine to facilitate reciprocal growth and development. Today, it is the career path I am on.
+Below you'll find work related to my professional focus, along with a few things that fall outside it.
 
-Below you can find the list of things that I did related to my professional area, or the ones that span beyond.
 
 ## Tech Writing
 
-I am active on [Stack Overflow](https://stackoverflow.com/users/2852528/serhii-povisenko). Doing software engineering professionally, I became convinced that a degree of that professionalism correlates with the fact, whether you write the code regularly or not. Stack Overflow allowed me to learn a lot. And this is a community I'd like to contribute to. In the past, I wrote a few pages on different software engineering topics for other blogs, but nowadays, as a tech writer, I only contribute to Stack Overflow once in a while. The pages that I published apart, I will leave here as a sublist:
-  * Java Memory Consumption in Docker and How We Employed Spring Boot. [link](https://dzone.com/articles/how-to-decrease-jvm-memory-consumption-in-docker-u)
-  * How to Extend Your AWS Infrastructure with Direct Connect Using Terraform. [link](https://www.freecodecamp.org/news/how-to-extend-your-aws-infrastructure/)
-  * COM Interface API Tutorial: Java Spring Boot + JACOB Library. [link](https://www.freecodecamp.org/news/interface-in-java-tutorial-how-to-call-the-com-interface-spring-boot-jacob-library/)
+I used to contribute to [Stack Overflow](https://stackoverflow.com/users/2852528/serhii-povisenko). Working as a software engineer, I've come to believe that staying sharp correlates with whether you write code regularly. Stack Overflow taught me a great deal, and it's a community I value giving back to—though these days I only contribute occasionally. I've also written for other publications in the past; those pieces are listed below:
+- Java Memory Consumption in Docker and How We Employed Spring Boot. [link](https://dzone.com/articles/how-to-decrease-jvm-memory-consumption-in-docker-u)
+- How to Extend Your AWS Infrastructure with Direct Connect Using Terraform. [link](https://www.freecodecamp.org/news/how-to-extend-your-aws-infrastructure/)
+- COM Interface API Tutorial: Java Spring Boot + JACOB Library. [link](https://www.freecodecamp.org/news/interface-in-java-tutorial-how-to-call-the-com-interface-spring-boot-jacob-library/)
 
 ## Other Things
 
-* In 2022, I started my [Substack](https://povisenko.substack.com). Here I write about topics I am curious about and do some reflections on the world. Though I could not highlight a particular theme yet, as too little has been written so far, I am highly motivated to write more; it is indeed one of my ongoing hobbies that I treat with utmost seriousness. I write both in Ukrainian and English. 
-
-* [Diaspora XX](https://soundcloud.com/diasporaxx). It is a hobby project where I explore the Ukrainian diaspora musical heritage of the XX century up to 1991. Moving to London opened a lot of things for me that I was not aware of before. And one such thing is access to buy easily old Ukrainian vinyls released across the world in the XX century. You could browse the collection on my [Discogs](https://www.discogs.com/user/povisenko/collection).
+- In 2022, I started a [Substack](https://povisenko.substack.com) where I write about topics I'm curious about and reflect on the world. There's no particular theme yet—too little has been written—but I'm motivated to keep going. It's a hobby I take seriously. I write in both Ukrainian and English.
+- [Diaspora XX](https://soundcloud.com/diasporaxx) is a hobby project exploring Ukrainian diaspora music from the 20th century, up to 1991. Moving to London opened my eyes to something I hadn't known about: the ease of finding old Ukrainian vinyl released across the world during that era. You can browse the collection on [Discogs](https://www.discogs.com/user/povisenko/collection).
+- I try to provide ongoing support to friends serving in the Ukrainian Defence Forces—organising fundraisers and buying what they need. Financial reports are available [here](https://linktr.ee/povisenko) and on my social media.
 
 ## Social & Platforms
 * [Instagram](https://www.instagram.com/povisenko) 
@@ -34,4 +34,4 @@ I am active on [Stack Overflow](https://stackoverflow.com/users/2852528/serhii-p
 * [Goodreads](https://www.goodreads.com/user/show/123456509-serhii-pov-senko)
 * [LinkedIn](https://www.linkedin.com/in/povisenko/)
 
-Feel free [to email](mailto:serhii.povisenko@icloud.com) me on any related topic or drop a line over other social platforms.
+Feel free to [email](mailto:serhii.povisenko@icloud.com) on any related topic or drop a line on other social platforms.
