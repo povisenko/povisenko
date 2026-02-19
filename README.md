@@ -14,7 +14,7 @@ Below you'll find work related to my professional focus, along with a few things
 
 ## Tech Writing
 
-I used to contribute to [Stack Overflow](https://stackoverflow.com/users/2852528/serhii-povisenko). Working as a software engineer, I've come to believe that staying sharp correlates with whether you write code regularly. Stack Overflow taught me a great deal, and it's a community I value giving back to—though these days I only contribute occasionally. I've also written for other publications in the past; those pieces are listed below:
+I used to contribute to [Stack Overflow](https://stackoverflow.com/users/2852528/serhii-povisenko) (~1.4 million people reached). Working as a software engineer, I've come to believe that staying sharp correlates with whether you write code regularly. Stack Overflow taught me a great deal, and it's a community I value giving back to—though these days I only contribute occasionally. I've also written for other publications in the past; those pieces are listed below:
 - Java Memory Consumption in Docker and How We Employed Spring Boot. [link](https://dzone.com/articles/how-to-decrease-jvm-memory-consumption-in-docker-u)
 - How to Extend Your AWS Infrastructure with Direct Connect Using Terraform. [link](https://www.freecodecamp.org/news/how-to-extend-your-aws-infrastructure/)
 - COM Interface API Tutorial: Java Spring Boot + JACOB Library. [link](https://www.freecodecamp.org/news/interface-in-java-tutorial-how-to-call-the-com-interface-spring-boot-jacob-library/)
