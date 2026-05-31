@@ -1,6 +1,6 @@
 ## Hello 👋🏻!
 
-I'm Serhii, a software engineering leader based in London, originally from Ukraine. This page is a short introduction to who I am and what I do.
+I'm Serhii, a software engineer based in London, originally from Ukraine. This page is a short introduction to who I am and what I do.
 
 ## My Story
 I'm from [Hadiach](https://goo.gl/maps/FM6Pc3h8erwBUKUj7), a small town in central-eastern Ukraine. After graduating from Mykhailo Drahomanov Humanitarian Lyceum in 2010, I moved to Kyiv, where I completed both a minor and a major in applied mathematics at Kyiv Polytechnic Institute (2016).
